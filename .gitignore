@@ -1,0 +1,42 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+*.log
+
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+
+# Local settings
+/local_settings.py
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
